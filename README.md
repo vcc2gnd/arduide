@@ -1,7 +1,7 @@
 arduide
 =======
 
-Enhanced IDE for Arduino for Windows platform
+Enhanced Arduino IDE for Windows platform
 
 Main Features:
 - Similar interface with official Arduino IDE for easy migration
@@ -18,5 +18,7 @@ Main Features:
 More info, read wiki page:
 https://github.com/vcc2gnd/arduide/wiki/About-ArduIDE
 
+
 (c) 2014, Vcc2GND.com
+
 ArduIDE is released under LGPLv3 license
